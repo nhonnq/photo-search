@@ -1,7 +1,7 @@
 # Photo Search Application
 
 ## Project Description
-This project is an Android application that demonstrates the use of modern Android development practices, including clean architecture, modularization, and a variety of popular libraries and technologies.
+This project is an Android application that demonstrates the use of modern Android development practices, including clean architecture, modularization, and a variety of popular libraries and technologies. 
 The application search photos data from a remote API and displays it in a user-friendly interface.
 
 ## Tech Stack

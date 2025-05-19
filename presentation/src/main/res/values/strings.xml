@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Photo Search</string>
+
+    <!--  Common string  -->
+    <string name="no_data_found">No data found here.</string>
+    <string name="fetching_data">Fetching data…</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <!--  Photo List  -->
+    <string name="photos">Photos</string>
+    <string name="search_by_name">Search by name</string>
+
+    <!--  Photo Details  -->
+    <string name="photo_details">Photo Details</string>
+
+</resources>

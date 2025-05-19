@@ -20,4 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "photo-search"
-include(":app")
+include(":presentation")
+include(":data")
+include(":domain")
+include(":testing")
