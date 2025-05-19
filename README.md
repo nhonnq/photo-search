@@ -78,3 +78,7 @@ To run the unit tests, you can use the following command:
 ./gradlew test
 ```
 This will run all the unit tests in the project and generate a test report.
+
+## Screenshots
+![Photo Search screen](./screenshots/photo-list.png)
+![Photo Detail screen](./screenshots/photo-details.png)
