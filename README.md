@@ -65,7 +65,7 @@ android-test/
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── README.md
-```_
+```
 
 ## App environment
 Build variants:
